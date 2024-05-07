@@ -1,11 +1,7 @@
 # Customer-Service-Dashboard-
  
-TABLEAU 
-CUSTOMER SERVICE DASHBOARD
- 
-Authors:
-SAKSHI SHINDE- A064(86062300041)
-HEETA PARMAR-A049(86062300012)
+
+
 DATASET 
 1: Introduction to dataset
 The dataset captures customer satisfaction scores (CSAT) for a one-month period at an e-commerce platform called Shopzilla .It includes various features such as category and sub-category of interaction, customer remarks, survey response date, category, item price, agent details (name, supervisor, manager), and CSAT score etc.
@@ -18,16 +14,16 @@ DATA DESCRIPTION:
 (the columns we used)
 Column Name	Description
 
-Unique id	Unique identifier for each record
-Channel name	Name of the customer service channel
-Category	Category of the interaction
-Sub-category	Sub-category of the interaction
-Customer Remarks	Feedback provided by the customer
-Product category	Category of the product
-Agent name	Name of the customer service agent
-Tenure Bucket	Bucket categorizing agent tenure
+Unique id:	Unique identifier for each record
+Channel name	:Name of the customer service channel
+Category	:Category of the interaction
+Sub-category	:Sub-category of the interaction
+Customer Remarks	:Feedback provided by the customer
+Product category	:Category of the product
+Agent name:	Name of the customer service agent
+Tenure Bucket	:Bucket categorizing agent tenure
 Agent Shift	Shift timing of the agent
-CSAT Score	Customer Satisfaction (CSAT) score
+CSAT Score	:Customer Satisfaction (CSAT) score
 
 
 2: Objective of dashboard
