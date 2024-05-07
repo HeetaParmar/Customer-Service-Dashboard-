@@ -3,6 +3,7 @@
 
 
 DATASET 
+
 1: Introduction to dataset
 The dataset captures customer satisfaction scores (CSAT) for a one-month period at an e-commerce platform called Shopzilla .It includes various features such as category and sub-category of interaction, customer remarks, survey response date, category, item price, agent details (name, supervisor, manager), and CSAT score etc.
 Dataset Information:
@@ -27,6 +28,7 @@ CSAT Score	:Customer Satisfaction (CSAT) score
 
 
 2: Objective of dashboard
+
 a) Overall Customer Satisfaction Trends:
 Create visualizations that show the overall trend of customer satisfaction scores over the one-month period. This could be a line chart or bar graph, allowing stakeholders to quickly assess whether satisfaction is improving, declining, or stable.
 b) Segmentation by Category and Sub-Category:
@@ -39,6 +41,7 @@ Create a scatter plot or bar chart showing CSAT scores for each agent. Identify 
 Explore correlations between agent performance and other features (e.g., response time, resolution rate).
 
 3:  Steps for designing:
+
 -	Created a bar chart for agent shift and CSAT score. Where CSAT score was on y axis. Later the graph was sorted in descending order.
 -	The next Graph created was the manager VS CSAT score. A reference line was created at two stages so that we can identify which manager outstands. One Reference Line was created at 10K Counts and other was created at 20K count.
 -	Another bar chart where the y axis (columns)comprised of the channel name was created.
@@ -48,9 +51,11 @@ Explore correlations between agent performance and other features (e.g., respons
 -	For Sunburst Chart Category was portrayed as color and the angle was based on the count of the category. 
 -	Created 4 blocks where placeholder was there in order to create a sunburst chart.
 -	In the Sunburst chart the subcategory was placed at 2 repetitions of placeholder.
--	 Three different Sheets with the text of agent count, Manager Count and Supervisor Count was created .
+-	Three different Sheets with the text of agent count, Manager Count and Supervisor Count was created .
 -	All these sheets were then bought into a single sheet i.e. the DASHBOARD. 
 -	With a bit of Formatting the Dashboard is created 😊
+
+-	
 4: Interpretation:
 	BAR CHART:
 Manger Vs CSAT Score: John Smith has the highest count of CSAT SCORE. Who is crossing 10k and 20k mark .
